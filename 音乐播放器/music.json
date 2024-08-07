@@ -1,0 +1,47 @@
+[
+    {
+        "name": "世末歌者",
+        "audio_url": "http://m10.music.126.net/20240807112500/b2e2952627e88e4ad0102fac17be2ab9/ymusic/3ef5/3514/9a4d/d82119ba7e3519b1f5e618ae2d289f4c.mp3",
+        "singer": "乐正绫",
+        "album": "世末歌者",
+        "cover": "http://p1.music.126.net/sZGaAxUHHhuhQ1Zxa2jw4g==/17790098137764958.jpg?param=300x300&quot",
+        "time": "05:21"
+    },
+
+
+    {
+        "name": "我记得",
+        "audio_url": "http://m701.music.126.net/20240807212204/977522bd10bd829b9c0e62ff8ce8617c/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/17718433824/acca/41eb/8112/efa4dce840121844afcb957bcb2d4fd1.mp3",
+        "singer": "赵雷",
+        "album": "我记得",
+        "cover": "http://p1.music.126.net/9bVOooAY6U6EJLzpv1Fikw==/109951169682871673.jpg?param=300x300",
+        "time": "05:29"
+    },
+
+    {
+        "name": "Rubia",
+        "audio_url": "http://m801.music.126.net/20240807212943/9c95aa49b745bd5777c6f6d6fcbbbcb8/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/7154685078/5d4c/eecb/5140/946f07e217e003a5cb3500452dc6d853.mp3",
+        "singer": "周深",
+        "album": "Rubia",
+        "cover": "http://p2.music.126.net/499AYZ3epP1T7GJYvnJZZQ==/109951165671947083.jpg?param=300x300",
+        "time": "03:14"
+    },
+
+    {
+        "name": "His Theme",
+        "audio_url": "http://m701.music.126.net/20240807213013/346882c4ddd0e240d56fa19088a343ff/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/21437165444/2bc1/a209/c9a9/eea7767271e30c2ed6723b0294c6eabb.mp3",
+        "singer": "Toby Fox",
+        "album": "His Theme",
+        "cover": "http://p1.music.126.net/mQcab-6L7D-w1lRxmYB7MQ==/109951168015051713.jpg?param=300x300",
+        "time": "02:05"
+    },
+    {
+        "name": "Travelers' encore",
+        "audio_url": "http://m801.music.126.net/20240807213039/dad20ab906cb75deec3b536786297ffc/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/10867753936/6437/84fe/e8f8/328ad12b71b4ec08a4333d59aec13e31.mp3",
+        "singer": "Andrew Prahlow",
+        "album": "Travelers' encore",
+        "cover": "http://p1.music.126.net/uQhyI1ltAXY2wgdyd5MbwA==/109951166426723051.jpg?param=300x300",
+        "time": "03:30"
+    }
+
+]
